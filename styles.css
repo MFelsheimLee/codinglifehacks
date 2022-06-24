@@ -57,10 +57,7 @@ header {
   padding-left: 20%;
 }
 
-.funflix-img,
-.weeklymeme-img,
-.justhtml-img,
-.quotesite-img {
+.projects img {
   width: 400px;
   border: 2px solid grey;
   border-radius: 20px;
